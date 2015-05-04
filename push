@@ -1,0 +1,3 @@
+#!/bin/sh
+../go_appengine/appcfg.py --oauth2 --noauth_local_webserver update app.yaml
+
